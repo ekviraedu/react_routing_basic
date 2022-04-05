@@ -8,7 +8,7 @@ This is sample project about IPL players and teams.
 
 A small list of players is already added.
 
-Exercise 1: Create a blank project and then replciate the functiponality of this project.
+Exercise 1: Create a blank project and then replicate the functionality of this project.
 
 Exercise 2: Add new players to the list in the database. In addition, change the fields and data for players.
 
